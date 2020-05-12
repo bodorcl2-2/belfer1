@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//bodorcl2-2.github.io/belfer1/static/css/main.523f09c5.chunk.css",
+    "main.js": "//bodorcl2-2.github.io/belfer1/static/js/main.c61ad19b.chunk.js",
+    "main.js.map": "//bodorcl2-2.github.io/belfer1/static/js/main.c61ad19b.chunk.js.map",
+    "runtime-main.js": "//bodorcl2-2.github.io/belfer1/static/js/runtime-main.0707a2bc.js",
+    "runtime-main.js.map": "//bodorcl2-2.github.io/belfer1/static/js/runtime-main.0707a2bc.js.map",
+    "static/js/2.a1841def.chunk.js": "//bodorcl2-2.github.io/belfer1/static/js/2.a1841def.chunk.js",
+    "static/js/2.a1841def.chunk.js.map": "//bodorcl2-2.github.io/belfer1/static/js/2.a1841def.chunk.js.map",
+    "index.html": "//bodorcl2-2.github.io/belfer1/index.html",
+    "precache-manifest.60746ca241d789e37754214f45620e7c.js": "//bodorcl2-2.github.io/belfer1/precache-manifest.60746ca241d789e37754214f45620e7c.js",
+    "service-worker.js": "//bodorcl2-2.github.io/belfer1/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "//bodorcl2-2.github.io/belfer1/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.a1841def.chunk.js.LICENSE.txt": "//bodorcl2-2.github.io/belfer1/static/js/2.a1841def.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0707a2bc.js",
+    "static/js/2.a1841def.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.c61ad19b.chunk.js"
+  ]
+}
